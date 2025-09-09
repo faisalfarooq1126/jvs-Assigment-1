@@ -301,13 +301,13 @@
 // var overallPerc = (totalObtained / totalMarks) * 100;
 
 // Show result in table
-document.write("<table cellspacing='0' cellpadding='5'>");
-document.write("<tr><th>Subject</th><th>Total Marks</th><th>Obtained Marks</th><th>Percentage</th></tr>");
-document.write("<tr><td>" + sub1 + "</td><td>" + totalMarksPerSub + "</td><td>" + marks1 + "</td><td>" + perc1 + "%</td></tr>");
-document.write("<tr><td>" + sub2 + "</td><td>" + totalMarksPerSub + "</td><td>" + marks2 + "</td><td>" + perc2 + "%</td></tr>");
-document.write("<tr><td>" + sub3 + "</td><td>" + totalMarksPerSub + "</td><td>" + marks3 + "</td><td>" + perc3 + "%</td></tr>");
-document.write("<tr><th>Total</th><th>" + totalMarks + "</th><th>" + totalObtained + "</th><th>" + overallPerc + "%</th></tr>");
-document.write("</table>");
+// document.write("<table cellspacing='0' cellpadding='5'>");
+// document.write("<tr><th>Subject</th><th>Total Marks</th><th>Obtained Marks</th><th>Percentage</th></tr>");
+// document.write("<tr><td>" + sub1 + "</td><td>" + totalMarksPerSub + "</td><td>" + marks1 + "</td><td>" + perc1 + "%</td></tr>");
+// document.write("<tr><td>" + sub2 + "</td><td>" + totalMarksPerSub + "</td><td>" + marks2 + "</td><td>" + perc2 + "%</td></tr>");
+// document.write("<tr><td>" + sub3 + "</td><td>" + totalMarksPerSub + "</td><td>" + marks3 + "</td><td>" + perc3 + "%</td></tr>");
+// document.write("<tr><th>Total</th><th>" + totalMarks + "</th><th>" + totalObtained + "</th><th>" + overallPerc + "%</th></tr>");
+// document.write("</table>");
 
 
 
